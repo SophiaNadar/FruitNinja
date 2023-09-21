@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5VsCgh4tSpb" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">fruitNinja</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">FruitNinja Game</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="fruitNinja_ORG">
+    <organization identifier="fruitNinja_ORG">
+      <title>fruitNinja</title>
+      <item identifier="Game_SCO" isvisible="true" identifierref="__5VsCgh4tSpb_RES">
+        <title>fruitNinja</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5VsCgh4tSpb_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6oKgztsiqlT_C-10_RA2C5FF.jpg" />
+      <file href="mobile/6hXZTrhlfHY.png" />
+      <file href="mobile/6d8NjZqGmT1.png" />
+      <file href="mobile/5byqxBUIRSt.png" />
+      <file href="mobile/69XkBntocL0.png" />
+      <file href="mobile/60cUr9Kblmk.png" />
+      <file href="mobile/605jP94cCk3.png" />
+      <file href="mobile/6qSAp5XoRS7.png" />
+      <file href="mobile/6qmcgmF0ELC.png" />
+      <file href="mobile/6WUNN3AC7dd.png" />
+      <file href="mobile/6mmOXfSqQ7r.png" />
+      <file href="mobile/6gkTLiZCeNy.png" />
+      <file href="mobile/6YuUgnZZQbt.png" />
+      <file href="mobile/5a4v8fP3M2u.png" />
+      <file href="mobile/5o1ZwDmR7R9.jpg" />
+      <file href="story_content/6p9xcuRcjCM_44100_48_0.mp3" />
+      <file href="story_content/6ZqGvtkXhzV_44100_48_0.mp3" />
+      <file href="story_content/5Yse3k11FSp_44100_48_0.mp3" />
+      <file href="story_content/6mygEW3oK2O_44100_48_0.mp3" />
+      <file href="story_content/5pykJ6XNfI9_44100_48_0.mp3" />
+      <file href="story_content/6Zw7xhpjOXX_44100_48_0.mp3" />
+      <file href="story_content/5XCeTLI3bwz_44100_48_0.mp3" />
+      <file href="mobile/5zNbldyPNwr.png" />
+      <file href="mobile/5WgYHVybxxH.png" />
+      <file href="mobile/6Ozds8IpWfZ.png" />
+      <file href="story_content/5ZDOOZDolIm_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6TgzEbHNHq1.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5uYjGYOM6Yw.js" />
+      <file href="html5/data/js/5wYpifKBGZI.js" />
+      <file href="html5/data/js/5xz3u98sfnA.js" />
+      <file href="html5/data/js/6Tj9uy6z9gN.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
